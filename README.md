@@ -3,15 +3,12 @@
 ```bash
 # install with npm
 npm install svelte-tailwind-transition
-npm install tailwind-merge
 
 # install with yarn
 yarn add svelte-tailwind-transition
-yarn add tailwind-merge
 
 # install with pnpm
 pnpm add svelte-tailwind-transition
-pnpm add tailwind-merge
 ```
 
 ## Setup
